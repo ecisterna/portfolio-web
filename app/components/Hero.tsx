@@ -5,13 +5,13 @@ export default function Hero({ lang }: { lang: 'en' | 'es' }) {
       greeting: "Hi! I'm EMILIANO CISTERNA",
       role: "> Systems Engineer",
       resumeBtn: "Download Resume",
-      resumeLink: "https://drive.google.com/file/d/11rUNxRbtLgsag79RsZaPeM0YaHFQjnjN/view?usp=drive_link"
+      resumeLink: "https://drive.google.com/file/d/1MlM2OmKJYSY6pm1m4Is_0m8yY9BkSG_S/view?usp=drive_link"
     },
     es: {
       greeting: "¡Hola! Soy EMILIANO CISTERNA",
       role: "> Ingeniero en Sistemas",
       resumeBtn: "Descargar CV",
-      resumeLink: "https://drive.google.com/file/d/1bYi8nXKa43aHg4_TlHmVfbHevI9-J377/view?usp=drive_link"
+      resumeLink: "https://drive.google.com/file/d/12WiiZPgn6XiGc5wVDa5WosXDB70Mz5_j/view?usp=drive_link"
     }
   };
 

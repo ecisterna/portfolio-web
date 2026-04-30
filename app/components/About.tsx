@@ -2,15 +2,15 @@ export default function About({ lang }: { lang: 'en' | 'es' }) {
   const content = {
     en: {
       title: "About Me",
-      text1: "Systems Engineer & Full-Stack Developer with proven experience building scalable, secure web applications and RESTful APIs using Python, Java, Node.js, TypeScript, and SQL.",
-      text2: "Delivers production-ready solutions across the full software lifecycle, from database design and API development to automated testing, CI/CD, and monitoring.",
-      text3: "Skilled at translating business requirements into maintainable, high-quality code that improves performance, reliability, and user experience.",
+      text1: "Systems Engineer specializing in Full-Stack development of scalable and efficient web applications.",
+      text2: "Proven experience building end-to-end solutions: from relational database architecture (SQL) and robust backend APIs (Python, Java, Node.js) to dynamic frontend interfaces (React, Angular, TypeScript).",
+      text3: "Passionate about translating complex business requirements into clean, high-performance code, ensuring quality and security throughout the Software Development Life Cycle (SDLC).",
     },
     es: {
       title: "Sobre Mí",
-      text1: "Ingeniero de Sistemas y Desarrollador Full-Stack con experiencia comprobada en la construcción de aplicaciones web escalables y seguras, y APIs RESTful utilizando Python, Java, Node.js, TypeScript y SQL.",
-      text2: "Capaz de entregar soluciones listas para producción a lo largo de todo el ciclo de vida del software, desde el diseño de bases de datos y desarrollo de APIs hasta pruebas automatizadas y despliegue.",
-      text3: "Habilidad para traducir requerimientos de negocio en código mantenible y de alta calidad que mejora el rendimiento, la fiabilidad y la experiencia del usuario.",
+      text1: "Ingeniero en Sistemas especializado en el desarrollo Full-Stack de aplicaciones web escalables y eficientes.",
+      text2: "Experiencia comprobada en la construcción de soluciones completas: desde la arquitectura de bases de datos relacionales (SQL) y el desarrollo de APIs robustas en el backend (Python, Java, Node.js), hasta la creación de interfaces dinámicas en el frontend (React, Angular, TypeScript).",
+      text3: "Apasionado por traducir requerimientos de negocio complejos en código limpio y de alto rendimiento, asegurando la calidad y seguridad en todo el ciclo de vida del software (SDLC).",
     }
   };
 
