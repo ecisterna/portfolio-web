@@ -10,10 +10,10 @@ export default function TechStack({ lang }: { lang: "en" | "es" }) {
     // Backend & Languages
     { name: "Python", icon: "python/python-original.svg" },
     { name: "Java", icon: "java/java-original.svg" },
-    { name: "GeneXus", icon: "genexus/genexus-original.svg"},
+    //{ name: "GeneXus", icon: "genexus/genexus-original.svg"},
     { name: "TypeScript", icon: "typescript/typescript-original.svg" },
     { name: "SQL", icon: "azuresqldatabase/azuresqldatabase-original.svg" },
-    { name: ".NET", icon: "dotnet/dotnet-original.svg" },
+    //{ name: ".NET", icon: "dotnet/dotnet-original.svg" },
     { name: "C#", icon: "csharp/csharp-original.svg" },
     // Frameworks
     { name: "Spring", icon: "spring/spring-original.svg" },
