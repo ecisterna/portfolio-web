@@ -2,15 +2,15 @@ export default function About({ lang }: { lang: 'en' | 'es' }) {
   const content = {
     en: {
       title: "About Me",
-      text1: "Systems Engineer specializing in Full-Stack development of scalable and efficient web applications.",
-      text2: "Proven experience building end-to-end solutions: from relational database architecture (SQL) and robust backend APIs (Python, Java, Node.js) to dynamic frontend interfaces (React, Angular, TypeScript).",
-      text3: "Passionate about translating complex business requirements into clean, high-performance code, ensuring quality and security throughout the Software Development Life Cycle (SDLC).",
+      text1: "Systems Engineer with a focus on the financial and banking sector.",
+      text2: "I develop services for the Bantotal core banking system (using GeneXus and SQL Server), integrate them with digital channels via Python-based APIs, and work on deployment infrastructure using Kubernetes.",
+      text3: "I also have prior experience as a full-stack developer (Angular, Node.js, React) and in web application security (OWASP).",
     },
     es: {
       title: "Sobre Mí",
-      text1: "Ingeniero en Sistemas especializado en el desarrollo Full-Stack de aplicaciones web escalables y eficientes.",
-      text2: "Experiencia comprobada en la construcción de soluciones completas: desde la arquitectura de bases de datos relacionales (SQL) y el desarrollo de APIs robustas en el backend (Python, Java, Node.js), hasta la creación de interfaces dinámicas en el frontend (React, Angular, TypeScript).",
-      text3: "Apasionado por traducir requerimientos de negocio complejos en código limpio y de alto rendimiento, asegurando la calidad y seguridad en todo el ciclo de vida del software (SDLC).",
+      text1: "Ingeniero en Sistemas orientado al sector financiero y bancario.",
+      text2: "Desarrollo servicios sobre el core bancario Bantotal (GeneXus, SQL Server), los integro con canales digitales mediante APIs en Python y trabajo en la infraestructura de despliegue sobre Kubernetes.",
+      text3: "Tengo experiencia previa como desarrollador full-stack (Angular, Node.js, React) y en seguridad de aplicaciones web (OWASP).",
     }
   };
 

@@ -10,16 +10,22 @@ export default function TechStack({ lang }: { lang: "en" | "es" }) {
     // Backend & Languages
     { name: "Python", icon: "python/python-original.svg" },
     { name: "Java", icon: "java/java-original.svg" },
+    { name: "GeneXus", icon: "genexus/genexus-original.svg"},
     { name: "TypeScript", icon: "typescript/typescript-original.svg" },
     { name: "SQL", icon: "azuresqldatabase/azuresqldatabase-original.svg" },
+    { name: ".NET", icon: "dotnet/dotnet-original.svg" },
+    { name: "C#", icon: "csharp/csharp-original.svg" },
     // Frameworks
     { name: "Spring", icon: "spring/spring-original.svg" },
+    { name: "Flask", icon: "flask/flask-original.svg" },
     { name: "Django", icon: "django/django-plain.svg" },
     { name: "Node.js", icon: "nodejs/nodejs-original.svg" },
     { name: "React", icon: "react/react-original.svg" },
     { name: "Angular", icon: "angularjs/angularjs-original.svg" },
     // Infra & Tools
     { name: "Docker", icon: "docker/docker-original.svg" },
+    { name: "Kubernetes", icon: "kubernetes/kubernetes-original.svg" },
+    { name: "Rancher", icon: "rancher/rancher-original.svg" },
     { name: "Git", icon: "git/git-original.svg" },
     { name: "Linux", icon: "linux/linux-original.svg" },
   ];
